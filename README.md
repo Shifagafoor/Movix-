@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Movix-
+🎬Movix is a sleek and responsive movie discovery web application built with React.js. It helps users explore trending,popular,top-rated, and upcoming movies with detailed information such as ratings,genres,cast,trailers,and release dates. Powered by a movie API,Movix delivers a seamless browsing experience with a modern UI and smooth navigation.
+>>>>>>> 2f91b55942d7df7678fd033d79bc0e47601ce8c1
