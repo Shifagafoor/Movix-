@@ -13,5 +13,18 @@
     border: 2px solid #ddd;
     border-radius :8px;
     outline:none;
+}
 
+.search button{
+    padding:12px 20px;
+    background-color: #e50914;
+    color:white;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    font-size: 16px;
+}
+
+.search button:hover{
+    background-color:#c40812;
 }

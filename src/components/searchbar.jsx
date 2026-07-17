@@ -1,12 +1,13 @@
 import "../styles/searchbar.css";
 
-function searchBar() {
+function SearchBar() {
     return(
         <div className = "search">
-            <input type="text" placeholder="Search for a movie" />
+            <input className="search-input" type="text" placeholder="Search for a movie" />
             <button>search</button>
         </div>
     );
 }
 
-export default searchBar;
+
+export default SearchBar;
