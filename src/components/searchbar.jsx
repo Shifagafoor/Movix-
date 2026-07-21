@@ -3,7 +3,7 @@ import "../styles/searchbar.css";
 
 function SearchBar() {
     const [searchText, setSearchText] = useState("");
-    
+
     function handleSearch() {
         alert(searchText);
     }
