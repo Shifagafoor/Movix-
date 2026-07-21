@@ -7,7 +7,7 @@ function moviecard(){
             <img src= {vazha} alt="Movie Poster" className="movie-post"/>
             <div className="movies-things">
                 <h2>Movie Title</h2>
-                <p>⭐8.5</p>
+                <p>⭐9.5</p>
             </div>
         </div>
         
